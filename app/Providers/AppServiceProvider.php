@@ -3,7 +3,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
- use Iltimate\support\facades\schema;
+use Illuminate\Support\Facades\Schema;
  use Iltimate\support\facades\Blueprint;
  use Iltimate\support\facades\Migration;
 
